@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lose_UI",
+    "texture": "35afe2f3-d0a8-450e-a42b-08e145f9b5cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      1600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      1600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

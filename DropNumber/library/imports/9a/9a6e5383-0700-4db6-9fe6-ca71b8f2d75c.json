@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Perspective-Button-Go-icon",
+    "texture": "9a3a7a5b-2892-4299-bc5f-c5d0d4001b64",
+    "atlas": "",
+    "rect": [
+      0,
+      19,
+      512,
+      485
+    ],
+    "offset": [
+      0,
+      -5.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
